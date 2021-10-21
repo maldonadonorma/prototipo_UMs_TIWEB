@@ -1,0 +1,170 @@
+
+@charset "UTF-8";
+/* CSS Document */
+
+body, html {
+	width: 100%;
+	margin: 0 auto;
+	padding: 0 auto;
+    text-rendering: optimizelegibility;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 25px;
+}
+
+
+.cover-index{
+
+    background-image: url('../img/ada1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 550px;
+}
+
+
+.titular{
+    border: solid 10px #F2EA1F;
+    color:#FFFFFF;
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: 600;
+    max-width: 500px;
+    margin-left: 10%;
+    margin-top: 10%;
+    padding: 20px 30px 30px 30px;  
+}
+.margen{
+    margin: 50px;
+}
+
+.row-0{
+    background-color:  #333333 ;
+    padding: 50px 100px;
+    
+  
+  }
+
+.row-1{
+  background-color:  #FFFFFF ;
+  padding: 100px;
+  
+
+}
+
+.row-2{
+    background-color:  #e3e3e3 ;
+    padding: 100px;
+    
+  
+  }
+
+.row-3{
+    
+    padding: 100px;
+        background-image: url('../img/eniac.png');
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-attachment: fixed;
+        background-position: center;
+        min-height: 300px;
+  
+  }
+
+  .row-4{
+    background-color:  #775ea5 ;
+    padding: 100px;
+    
+  
+  }
+
+
+
+.titulo{
+    font-family: 'Sansita Swashed', cursive;
+    margin-top: 50px;
+    text-align: center;
+    color: #333333;
+    
+    
+}
+.titulo3{
+    font-family: 'Sansita Swashed', cursive;
+    margin-top: 50px;
+    text-align: center;
+    color: #ffffff;
+    
+    
+}
+
+.borde{
+    
+    border-bottom: solid 10px #775EA5;
+    max-width: 200px;
+    margin: auto;
+    margin-bottom: 50px;
+
+}
+.titulo2{
+    font-family: 'Sansita Swashed', cursive;
+    text-align: center;
+    color: #333333;  
+
+}
+
+a{
+    
+    color: #FFFFFF;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 16px;
+  
+
+}
+
+a:hover{
+    color: #F2EA1F;
+}
+
+.row-pie{
+    background-color: #775EA5;
+
+
+}
+
+.xs-text{
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.ir-arriba {
+    padding: 10px;
+       display: inline-block;
+       background: rgba(119,94,165,.70);
+       color: #fff;
+       position: fixed;
+       text-align: center;
+       font-size: 2em;
+       bottom: 10px;
+       width: 60px;
+       right: 10px;
+       display: none;
+       cursor: pointer;
+       z-index: 10000001;
+       border-radius: 40px;
+   }
+
+
+
+
+
+
